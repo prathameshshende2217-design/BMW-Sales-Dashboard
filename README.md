@@ -43,7 +43,7 @@ This Power BI project analyzes BMW sales performance across regions, vehicle mod
 ## Files
 
 * bmw.pbix - Power BI Dashboard
-* Screenshot 2026-06-12 113913.png - Dashboard Screenshot
+  Screenshot 2026-06-12 113913.png
 * README.md - Project Documentation
 
 ## Author
